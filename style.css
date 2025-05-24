@@ -1,5 +1,28 @@
 @charset "utf-8";
 
 h1 {
-  background: #eee;
+  margin: 0;
+  padding: 16px;
+  background: aqua;
+}
+
+h3 {
+  margin: 0 0 16px 0;
+  text-decoration: underline;
+}
+
+section {
+  width: 800px;
+  padding: 8px;
+  border: 1px solid;
+}
+
+.title1 {
+  display: inline-block;
+ background: lightgreen;
+}
+
+.title2 {
+  display: inline-block;
+  background: orange;
 }
